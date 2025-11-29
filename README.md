@@ -17,11 +17,11 @@ FinOptima is a terminal-based personal finance allocation tool implemented in C.
 
 ## Program Flow
 
-1.Input total income
-2.Enter number of savings goals and details (name, target amount, importance)
-3.Enter number of expenses and details (name, amount, importance)
-4.The progam runs a genetic algorithm over multiple generations to find the best allocation
-5.Displays:
+- Input total income
+- Enter number of savings goals and details (name, target amount, importance)
+- Enter number of expenses and details (name, amount, importance)
+- The progam runs a genetic algorithm over multiple generations to find the best allocation
+- Displays:
   - Funded vs. not funded savings goals
   - Funded vs. not funded expenses
   - Summary of total allocated amounts and remaining budget
